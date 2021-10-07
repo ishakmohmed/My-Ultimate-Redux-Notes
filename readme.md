@@ -1,6 +1,1 @@
-# Folders
-
-- **redux-finish**: The completed Redux project (without React). It contains all the code I've written in the first 10 sections.
-- **bugs-backend**: A basic Node.js back-end for the bug tracker app. Used it in the section titled Calling APIs.
-- **bugs-frontend**: The completed React/Redux front-end for the bug tracker app.
-
+![Mohmed Ishak](https://user-images.githubusercontent.com/52876913/136445655-60df9832-a8ba-4616-bb52-787bc27e8e5c.png)
